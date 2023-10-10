@@ -13,7 +13,7 @@ export function Hero() {
         className="w-60 h-60 relative mx-auto rounded-full p-8 mt-10"
       />
       <div className="text-center">
-        <h1 className="leading-relaxed 4rem text-black mb-4 text-4xl sm:text-4xl lg:text-5xl lg:leading-normal font-extrabold">
+        <h1 className="leading-relaxed 4rem text-black mb-4 text-3xl lg:text-5xl leading-10 lg:leading-normal font-extrabold">
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-[#ff6188]">
             Hello, I&apos;m Sherry
           </span>
