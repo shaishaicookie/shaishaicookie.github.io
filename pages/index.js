@@ -18,7 +18,7 @@ import Skills from "./components/Skills";
 
 export default function Home() {
   return (
-    <div className={`${roboto.variable} font-roboto bg-slate-50`}>
+    <div className={`${roboto.variable} font-roboto bg-[#FBF9FF]`}>
       <Head>
         <title>Sherry Wang</title>
         <link rel="icon" href="/favicon.ico" />
