@@ -97,7 +97,7 @@ export function FunFacts() {
                   </ul>
                 </li>
                 <li>My favorite AE built-in effect is "Venetian Blinds".</li>
-                <li>My favorite AR plugin effect is "S_Blur_MoCurves".</li>
+                <li>My favorite AE plugin effect is "S_Blur_MoCurves".</li>
                 <li>My favorite moive is THE IMITATION GAME(2014).</li>
                 <li>My favorite radio drama is《别来无恙》.</li>
               </ul>
